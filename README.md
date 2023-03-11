@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 ### `cd tipster-fe`
 
+Enter the main project directory
+
 ### `npm start`
 
 Runs the app in the development mode.\
